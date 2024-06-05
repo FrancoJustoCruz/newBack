@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6650ae44626864d121122638"
+  },
+  "title": "primera tito",
+  "description": "primera tito",
+  "date": {
+    "$date": "2024-05-24T15:12:04.330Z"
+  },
+  "user": {
+    "$oid": "664ea199db8e4d43a99ce67e"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T15:12:04.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T15:12:04.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650b09e626864d12112264d"
+  },
+  "title": "asdasda",
+  "description": "asdasda",
+  "date": {
+    "$date": "2024-05-24T15:22:06.781Z"
+  },
+  "user": {
+    "$oid": "664ea199db8e4d43a99ce67e"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T15:22:06.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T15:22:06.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650bb36626864d121122666"
+  },
+  "title": "asdasd",
+  "description": "asdasd",
+  "date": {
+    "$date": "2024-05-24T16:07:18.597Z"
+  },
+  "user": {
+    "$oid": "6650bac8626864d12112265f"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T16:07:18.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T16:07:18.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66536aa966135615e2704715"
+  },
+  "title": "primera tarea de nuevo usuario",
+  "description": "esta es la primera tarea de prueba de este nuevo usuario",
+  "date": {
+    "$date": "2024-05-26T17:00:25.810Z"
+  },
+  "user": {
+    "$oid": "6653654c66135615e2704711"
+  },
+  "createdAt": {
+    "$date": "2024-05-26T17:00:25.811Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T17:00:25.811Z"
+  },
+  "__v": 0
+}]

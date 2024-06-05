@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "664ea146db8e4d43a99ce67b"
+  },
+  "username": "titoprueba1",
+  "email": "titoprueba1@gmail.com",
+  "password": "$2a$10$RUDtw7UEzxNXMtrkzopR/e4rgzzxhXSqgxa4XZQhy2PGryk1aFsfK",
+  "createdAt": {
+    "$date": "2024-05-23T01:52:06.677Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T01:52:06.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ea199db8e4d43a99ce67e"
+  },
+  "username": "titoprueba2",
+  "email": "titoprueba2@gmail.com",
+  "password": "$2a$10$IX0zTUsCEDQWHst61F/C7OeX83M//9XfgIZwoj8WaZe9wfKk33pdy",
+  "createdAt": {
+    "$date": "2024-05-23T01:53:29.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T01:53:29.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ff4626cbdc10b8a0568c0"
+  },
+  "username": "franco1",
+  "email": "franco1@gmail.com",
+  "password": "$2a$10$q6K9A1.JSvzAf21KSu6lf.ZrjI5BuqtWbQsnB7QxSQ1D./4q.lskW",
+  "createdAt": {
+    "$date": "2024-05-24T01:58:58.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T01:58:58.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ff6ed6cbdc10b8a0568c8"
+  },
+  "username": "franco2",
+  "email": "franco2@gmail.com",
+  "password": "$2a$10$4hXEeojfvf4wvcYsnkUDF.LaoZYbmW/MDCzTUKoHTBw.p8bGJwOtW",
+  "createdAt": {
+    "$date": "2024-05-24T02:09:49.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T02:09:49.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66507fc23fde8e7b65905747"
+  },
+  "username": "francoJusto",
+  "email": "francojusto@gmail.com",
+  "password": "$2a$10$uNKwwL81YIxk9fHpoSXiQudfQn8lDFLCf2cfVXhGr9qCL14h0hgTe",
+  "createdAt": {
+    "$date": "2024-05-24T11:53:38.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T11:53:38.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650bac8626864d12112265f"
+  },
+  "username": "franquito",
+  "email": "franquito@gmail.com",
+  "password": "$2a$10$p56WqsP8S0Z9PZzFSzRPz.6Yc7Jk016IGZVswBwbRcmHGqfVLB6Vq",
+  "createdAt": {
+    "$date": "2024-05-24T16:05:28.242Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T16:05:28.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653654c66135615e2704711"
+  },
+  "username": "usuarioNuevo1",
+  "email": "usuarioNuevo1@gmail.com",
+  "password": "$2a$10$g/MZ45z0VbsZ7jSUPfhGWOgfYJdKoIhYdx08sfzy8pKrU3dTIFD2C",
+  "createdAt": {
+    "$date": "2024-05-26T16:37:32.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T16:37:32.054Z"
+  },
+  "__v": 0
+}]
