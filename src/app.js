@@ -4,6 +4,7 @@ import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import { swaggerUi, specs } from './swagger.js';
 
+
 import authRoutes from './routes/auth.routes.js';
 import taskRoutes from './routes/task.routes.js';
 import videoRoutes from './routes/video.routes.js'
